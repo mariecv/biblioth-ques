@@ -1,0 +1,4 @@
+@font-face {font-family: "baloo"; src: local('fonts/baloo-regular.ttf'),format(".ttf") }
+@font-face {font-family: "vollkorn"; src: local('fonts/vollkorn-regular.ttf'),format(".ttf"); }
+@font-face {font-family: "vollkorn-italic"; src: local('fonts/vollkorn-semibold-italic.ttf'),format(".ttf"); }
+@font-face {font-family: "vollkorn-semibold"; src: local('fonts/vollkorn-semibold.ttf'),format(".ttf"); }
